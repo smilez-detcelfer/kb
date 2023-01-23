@@ -55,6 +55,7 @@ lvresize -L 4G vg_name/lv_name  #utility change logical volume size
 
 
 obsidian new rec
+next one
 
 ### GRUB2 ###
 
