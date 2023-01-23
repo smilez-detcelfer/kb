@@ -54,6 +54,8 @@ lvcreate  -n <lv_name> -L <lv_size> #utility  create logical volume
 lvresize -L 4G vg_name/lv_name  #utility change logical volume size
 
 
+obsidian new rec
+
 ### GRUB2 ###
 
 /etc/default/grub # grub config file

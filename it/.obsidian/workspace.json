@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4ef3761951232458",
+        "id": "fb8494bde8e27978",
         "type": "tabs",
         "children": [
           {
-            "id": "4eb381a9bf13e45f",
+            "id": "81586049395caa3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -145,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4eb381a9bf13e45f",
+  "active": "81586049395caa3a",
   "lastOpenFiles": [
     "linux/linux disk management.md",
     "products/PostgreSQL/PostgreSQL installation ubuntu.md",
