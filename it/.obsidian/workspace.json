@@ -18,8 +18,129 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "59c5310cc180a402",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/linux packet managers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9745911e662d7719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Linux commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a247597ec850baf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/linux shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3247a81eac4cf7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/linux shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1503cd634c9d81b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/linux disk management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e49ed91fcb1598e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Linux evinronment variables.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9384f19f23bcd2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/Linux commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f482a68c33bc040a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/utils/linux sed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e30774333ac7d062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/linux shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15bdf71e22dc64db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/linux proceses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -69,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 261.5
   },
   "right": {
     "id": "4697072af443cb5d",
@@ -85,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/linux disk management.md",
+                "file": "linux/linux proceses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/linux disk management.md",
+                "file": "linux/linux proceses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/linux disk management.md"
+                "file": "linux/linux proceses.md"
               }
             }
           }
@@ -145,17 +266,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81586049395caa3a",
+  "active": "15bdf71e22dc64db",
   "lastOpenFiles": [
+    "linux/linux shell.md",
+    "linux/linux packet managers.md",
+    "linux/linux locale and encoding.md",
+    "linux/linux GRUB 2.md",
+    "linux/Linux evinronment variables.md",
     "linux/linux disk management.md",
-    "products/PostgreSQL/PostgreSQL installation ubuntu.md",
-    "z_pics/Pasted image 20230120163703.png",
+    "linux/linux  bash regex.md",
     "linux/Linux commands.md",
-    "linux/Linux LPIC1.md",
-    "products/Indeed PAM/PAM Indeed installation.md",
-    "python/main.md",
-    "products/PostgreSQL/Console commands.md",
-    "linux/ufw/UFW commands.md",
-    "admin/garda database.md"
+    "linux/linux streams.md",
+    "linux/utils/linux awk.md"
   ]
 }

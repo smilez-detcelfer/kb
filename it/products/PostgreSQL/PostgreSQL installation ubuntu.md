@@ -9,25 +9,21 @@ Install
 Connect to db via default admin:
 `sudo -u postgres psql`  
 
-Create db, user, privs to user on created db:
-postgres=# `create database testdb;`  
-postgres=# `create user testuser with encrypted password '1qazXSW@CDE#'; ` 
-postgres=# `grant all privileges on database testdb to testuser;`
-```bash
-GRANT ALL ON ALL TABLES IN SCHEMA public to db_user
-```
-```bash
-GRANT ALL ON ALL SEQUENCES IN SCHEMA public to db_user;
+Create db, schema, user, privs to user:
+`create database testdb;`  
+`create user testuser with encrypted password '123456XSWE'; ` 
+`grant all privileges on database testdb to testuser;`
+\c testdb
+`CREATE SCHEMA myschema;`
+GRANT ALL ON ALL TABLES IN SCHEMA myschema to testuser;
+GRANT ALL ON ALL SEQUENCES IN SCHEMA myschema to testuser;
+GRANT ALL ON ALL FUNCTIONS IN SCHEMA myschema to testuser;
 
-```
-```bash
-GRANT ALL ON ALL FUNCTIONS IN SCHEMA public to db_user;
-```
 
 Allow connection to db from this or other hosts:
 
-sudo nano /etc/postgresql/15/main/postgresql.conf
+sudo nano **/etc/postgresql/15/main/postgresql.conf**
 	`listen_addresses = '*'`
-sudo nano /etc/postgresql/15/main/pg_hba.conf
+sudo nano **/etc/postgresql/15/main/pg_hba.conf**
 	`local all all testuser md5`
 	`host all all 0.0.0.0/0 md5`

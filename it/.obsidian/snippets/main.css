@@ -1,0 +1,27 @@
+.cm-s-obsidian span.cm-inline-code {
+    color: yellow;
+}
+.markdown-preview-view code{
+         color: yellow;
+}
+
+
+/* Different color for bold*/
+.cm-strong,
+.markdown-preview-section strong {
+  color: red !important;
+}
+
+
+/* Different color for italic */
+.cm-em {
+    color: orange;
+	font-style: normal !important;
+}
+
+/* of italics in Preview  all notes in a vault 
+.markdown-preview-section em {
+    color: #cc241d !important;
+	font-style: normal !important;
+}
+*/
