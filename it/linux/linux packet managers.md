@@ -48,3 +48,8 @@ apt purge <package> # remove package with dependencies
 ```bash
 apt autoremove # remove unused packages
 ```
+
+**Manual installatin .deb packet**
+
+`sudo dpkg -i package_file.deb`
+

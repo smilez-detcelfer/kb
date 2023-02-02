@@ -20,31 +20,43 @@
             }
           },
           {
-            "id": "59c5310cc180a402",
+            "id": "6a31e14693733f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/linux packet managers.md",
+                "file": "linux/linux privileges.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9745911e662d7719",
+            "id": "6721f62b62ed0b95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Linux commands.md",
+                "file": "linux/linux user management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a247597ec850baf2",
+            "id": "c0dc6cf03a55e69e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/linux privileges.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c527cbc527b5357",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +68,7 @@
             }
           },
           {
-            "id": "e3247a81eac4cf7f",
+            "id": "4861f5a224a08880",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,79 +80,31 @@
             }
           },
           {
-            "id": "f1503cd634c9d81b",
+            "id": "c6ddd450f6ccad5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/linux disk management.md",
+                "file": "linux/linux user management.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1e49ed91fcb1598e",
+            "id": "3cee78253c81c759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/Linux evinronment variables.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9384f19f23bcd2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/Linux commands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f482a68c33bc040a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/utils/linux sed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e30774333ac7d062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/linux shell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15bdf71e22dc64db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/linux proceses.md",
+                "file": "linux/utils/crontab.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -206,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/linux proceses.md",
+                "file": "linux/utils/crontab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/linux proceses.md",
+                "file": "linux/utils/crontab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/linux proceses.md"
+                "file": "linux/utils/crontab.md"
               }
             }
           }
@@ -254,7 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 227.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,17 +230,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15bdf71e22dc64db",
+  "active": "3cee78253c81c759",
   "lastOpenFiles": [
+    "linux/linux user management.md",
     "linux/linux shell.md",
-    "linux/linux packet managers.md",
-    "linux/linux locale and encoding.md",
-    "linux/linux GRUB 2.md",
-    "linux/Linux evinronment variables.md",
-    "linux/linux disk management.md",
-    "linux/linux  bash regex.md",
-    "linux/Linux commands.md",
     "linux/linux streams.md",
-    "linux/utils/linux awk.md"
+    "linux/linux disk management.md",
+    "linux/Linux commands.md",
+    "linux/linux  bash regex.md",
+    "linux/bash.md",
+    "linux/security things.md",
+    "products/PostgreSQL/PostgreSQL installation ubuntu.md",
+    "products/PostgreSQL/Console commands.md"
   ]
 }

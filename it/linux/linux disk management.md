@@ -30,7 +30,7 @@ Add mount point on boot:
 sudo blkid # shows partition UUID
 ```
 2. /etc/fstab - file system mounting #config_file
-	`UUID=partUUID /mount/point fs_type option1,option2 0 0 `
+	`UUID=partUUID /mount/point fs_type option1,option2,auto 0 0 ` 
 
 swapon & swapoff # commands for swap configuration
 mkswp - # #utility  swap creation 
