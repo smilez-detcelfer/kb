@@ -4,107 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "fb8494bde8e27978",
+        "id": "03b06fd33d9243ee",
         "type": "tabs",
         "children": [
           {
-            "id": "81586049395caa3a",
+            "id": "67246e7208a71911",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/linux disk management.md",
+                "file": "linux/_Linux LPIC1.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6a31e14693733f90",
+            "id": "748c2fc5cb2980ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/linux privileges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6721f62b62ed0b95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/linux user management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c0dc6cf03a55e69e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/linux privileges.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c527cbc527b5357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/linux shell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4861f5a224a08880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/linux shell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6ddd450f6ccad5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/linux user management.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3cee78253c81c759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/utils/crontab.md",
+                "file": "security web/notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/utils/crontab.md",
+                "file": "security web/notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/utils/crontab.md",
+                "file": "security web/notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/utils/crontab.md"
+                "file": "security web/notes.md"
               }
             }
           }
@@ -230,17 +158,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cee78253c81c759",
+  "active": "748c2fc5cb2980ab",
   "lastOpenFiles": [
-    "linux/linux user management.md",
-    "linux/linux shell.md",
-    "linux/linux streams.md",
-    "linux/linux disk management.md",
-    "linux/Linux commands.md",
-    "linux/linux  bash regex.md",
-    "linux/bash.md",
     "linux/security things.md",
-    "products/PostgreSQL/PostgreSQL installation ubuntu.md",
-    "products/PostgreSQL/Console commands.md"
+    "z_tech_docs/pictures/Pasted image 20230204165930.png",
+    "security web/notes.md",
+    "z_tech_docs/pictures/Pasted image 20230204073043.png",
+    "linux/Linux logging.md",
+    "z_tech_docs/pictures/Pasted image 20230202141423.png",
+    "linux/_Linux LPIC1.md",
+    "linux/bash.md",
+    "linux/linux packet managers.md",
+    "linux/linux locale and encoding.md"
   ]
 }

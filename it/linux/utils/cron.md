@@ -13,7 +13,7 @@
 
 user can create cron jobs in /var/spool/cron/crontabs
 
-## CRONTAB #utility 
+## CRONTAB
 
 ```bash
 crontab -e # edit user cron file
@@ -21,6 +21,7 @@ crontab -l # show user cron file
 crontab -r # remove user cron file
 crontab -u user -e/l/r # work with specific user file 
 ```
+crontab generate file with **user cron jobs** in */var/spool/cron/crontabs/<user_name>*
 
 ## CRONTAB permitions
 
